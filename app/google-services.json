@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156269616007",
+    "project_id": "rewardsfreefire-dc8dd",
+    "storage_bucket": "rewardsfreefire-dc8dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156269616007:android:e7dd71d6abad7a38c65122",
+        "android_client_info": {
+          "package_name": "com.example.ff_diamond_rewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156269616007-jr0hvsvef9l53gkeqt4o5iuhtovhdn5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAib4irjvI1DSVYjAFVWkvGxJorlrOeH8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156269616007-jr0hvsvef9l53gkeqt4o5iuhtovhdn5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

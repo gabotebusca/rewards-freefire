@@ -1,0 +1,6 @@
+{
+  "name": "FF Diamond Rewards",
+  "description": "App de recompensas de diamantes para Free Fire con AdMob Rewarded Ads, inicio de sesión, Daily Check-in, referidos y sistema de canje por ID de jugador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
