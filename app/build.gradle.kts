@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.example.ff_diamond_rewards"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.ffrewards.diamantes"
+    applicationId = "com.example.ff_diamond_rewards"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
